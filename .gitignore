@@ -1,0 +1,7 @@
+/.idea/sonarlint/*"
+/.idea/sonarlint/
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/dockerfile/docker-compose-apps.yml
